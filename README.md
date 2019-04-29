@@ -12,3 +12,5 @@ how to start
 
 5. search via name is http://localhost:3000/airport/hongkong/name 
 
+main code will be in airports/routes/index.js
+
